@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://dvuhvosty.github.io/GTNHnotes/
+  baseUrl: dvuhvosty.github.io/GTNHnotes/
   ignorePatterns:
     - private
     - templates
